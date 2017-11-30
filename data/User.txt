@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "username": "gua",
+    "password": "1be6af03717a0906a774a129ac467fcea8f89849df003548a8039cffffb12baf"
+  },
+  {
+    "id": 1,
+    "username": "guagua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b"
+  },
+  {
+    "id": 2,
+    "username": "guaguagua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b"
+  }
+]
